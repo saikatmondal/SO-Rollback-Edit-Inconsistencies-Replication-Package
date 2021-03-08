@@ -6,4 +6,5 @@ For example, while a user may accept the formatting of a method name (e.g., getA
 
 ## Accepted Paper
 
-    Saikat Mondal, Gias Uddin and Chanchal K. Roy "Rollback Edit Inconsistencies in Developer Forum", International Conference on Mining Software Repositories (MSR 2021), Madrid,     Spain, May 2021.
+    Saikat Mondal, Gias Uddin and Chanchal K. Roy "Rollback Edit Inconsistencies in Developer Forum", International 
+    Conference on Mining Software Repositories (MSR 2021), Madrid, Spain, May 2021.
